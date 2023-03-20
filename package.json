@@ -4,8 +4,8 @@
   "description": "Back-end project exercise from the Back-end Basics course by Dicoding",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "lint": "eslint ./"
+    "start": "nodemon ./src/server.js",
+    "lint": "eslint ./src"
   },
   "keywords": [],
   "author": "",
